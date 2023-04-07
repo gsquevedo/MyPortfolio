@@ -1,0 +1,28 @@
+nav {
+    background-color: #333;
+    color: #fff;
+    justify-content: right;
+    display: flex;
+    align-items: center;
+    height: 80px;
+}
+
+.icon {
+    color: #fff;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+li {
+    margin: 1rem;
+}
+
+a {
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+}
