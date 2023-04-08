@@ -8,5 +8,5 @@
 - HTML
 - CSS
 - JavaScript
-- Vue
+- Vue.js
 

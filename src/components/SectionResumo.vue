@@ -109,3 +109,5 @@
             </div>
         </section>
 </template>
+
+<script type="application/javascript" src="../assets/js/resumo.js"></script>

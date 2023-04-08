@@ -31,7 +31,3 @@
 </template>
 
 <script type="application/javascript" src="../assets/js/sobre.js"></script>
-<style scoped>
-    @import url('../assets/css/sobre.css')
-</style>
-

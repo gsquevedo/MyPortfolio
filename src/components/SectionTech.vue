@@ -14,7 +14,3 @@
 </template>
 
 <script type="application/javascript" src="../assets/js/tech.js"></script>
-<style scoped>
-    @import url('../assets/css/tech.css')
-</style>
-

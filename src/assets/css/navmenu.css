@@ -7,10 +7,6 @@ nav {
     height: 80px;
 }
 
-.icon {
-    color: #fff;
-}
-
 ul {
     list-style: none;
     display: flex;

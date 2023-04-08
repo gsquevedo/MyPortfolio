@@ -1,13 +1,6 @@
 const NavMenu = {
-  name: 'NavMenu',
-  methods: {
-    helloWorld () {
-      console.log("Hello world")
-    }
-  },
-  props: {
-    msg: String
-  }
+  name: "NavMenu",
+  style: require('../css/navmenu.css')
 }
 
 export default NavMenu;

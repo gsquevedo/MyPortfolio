@@ -10,6 +10,3 @@
 </template>
 
 <script type="application/javascript" src="../assets/js/navmenu.js"></script>
-<style scoped>
-    @import url('../assets/css/navmenu.css')
-</style>
