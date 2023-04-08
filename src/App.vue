@@ -3,6 +3,7 @@
     <NavMenu/> 
     <SectionSobre/>
     <SectionResumo/>
+    <SectionTech/>
   </header>
 </template>
 
@@ -10,13 +11,16 @@
 import NavMenu from './components/NavMenu.vue'
 import SectionSobre from './components/SectionSobre.vue'
 import SectionResumo from './components/SectionResumo.vue'
+import SectionTech from './components/SectionTech.vue'
+
 
 export default {
   name: 'App',
   components: {
     NavMenu,
     SectionSobre,
-    SectionResumo
+    SectionResumo,
+    SectionTech
   }
 }
 </script>
