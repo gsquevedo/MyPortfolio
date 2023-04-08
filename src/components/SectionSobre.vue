@@ -24,11 +24,6 @@
                             </p>
                         </div>
                     </div>
-                    <div class="tecnologia">
-                        <div class="section-content">
-                            <h3> Linguagens e Tecnologias </h3>
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>
