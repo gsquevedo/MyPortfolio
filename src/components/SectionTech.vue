@@ -4,6 +4,11 @@
             <div class="section-title">
                 <h2> Linguagens e Tecnologias </h2>
             </div>
+            <div class="section-techs">
+                <div class="progress">
+                    <div class="vue-progress-bar"></div>
+                </div>
+            </div>
         </div>
     </section>
 </template>

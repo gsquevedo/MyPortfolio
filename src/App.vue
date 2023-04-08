@@ -1,10 +1,12 @@
 <template>
   <header id="header">
     <NavMenu/> 
-    <SectionSobre/>
-    <SectionResumo/>
-    <SectionTech/>
   </header>
+  <main id="main">
+    <SectionSobre/>
+    <SectionTech/>
+    <SectionResumo/>
+  </main>
 </template>
 
 <script>
@@ -13,14 +15,13 @@ import SectionSobre from './components/SectionSobre.vue'
 import SectionResumo from './components/SectionResumo.vue'
 import SectionTech from './components/SectionTech.vue'
 
-
 export default {
   name: 'App',
   components: {
     NavMenu,
     SectionSobre,
-    SectionResumo,
-    SectionTech
+    SectionTech,
+    SectionResumo
   }
 }
 </script>
