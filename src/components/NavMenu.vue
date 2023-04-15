@@ -10,3 +10,4 @@
 </template>
 
 <script type="application/javascript" src="../assets/js/navmenu.js"></script>
+<style type="stylesheet" src="../assets/css/navmenu.css"></style>

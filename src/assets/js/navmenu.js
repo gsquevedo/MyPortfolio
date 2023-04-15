@@ -1,6 +1,11 @@
 const NavMenu = {
   name: "NavMenu",
-  style: require('../css/navmenu.css')
+  components: {
+
+  },
+  methods: {
+
+  }
 }
 
 export default NavMenu;

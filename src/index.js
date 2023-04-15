@@ -3,6 +3,7 @@ import SectionSobre from './components/SectionSobre.vue'
 import SectionResumo from './components/SectionResumo.vue'
 import SectionTech from './components/SectionTech.vue'
 import SectionHome from './components/SectionHome.vue'
+import SectionFooter from './components/SectionFooter.vue'
 import './style.css';
 
 export default {
@@ -12,6 +13,7 @@ export default {
     SectionHome,
     SectionSobre,
     SectionTech,
-    SectionResumo
+    SectionResumo,
+    SectionFooter
   }
 }
